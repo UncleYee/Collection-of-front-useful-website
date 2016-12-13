@@ -8,3 +8,6 @@ A collection of front useful website
 
 ## Json
 校验 Json 格式:[http://jsonlint.com/#](http://jsonlint.com/#)
+
+## 国际化
+国际化解决方案:[http://i18next.com/](http://i18next.com/)
