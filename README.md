@@ -13,3 +13,6 @@ A collection of front useful website
 
 ## 国际化
 国际化解决方案:[http://i18next.com/](http://i18next.com/)
+
+## ES6 
+学习ES6:[https://babeljs.io/learn-es2015/](https://babeljs.io/learn-es2015/)
