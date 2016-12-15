@@ -18,4 +18,13 @@ A collection of front useful website
 学习ES6:[https://babeljs.io/learn-es2015/](https://babeljs.io/learn-es2015/) 
 
 ## JS Bin 
-JS在线编译:[http://jsbin.com/?js,console](http://jsbin.com/?js,console)
+JS在线编译:[http://jsbin.com/?js,console](http://jsbin.com/?js,console) 
+
+## 常用插件 
+Emmet 
+jsx 
+Eslint 
+One Dark 
+git plus 
+view in browser 
+Babel
