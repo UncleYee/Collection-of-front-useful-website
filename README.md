@@ -21,10 +21,16 @@ A collection of front useful website
 JS在线编译:[http://jsbin.com/?js,console](http://jsbin.com/?js,console) 
 
 ## 常用插件 
-Emmet 
-jsx 
+Emmet
+
+jsx
+
 Eslint 
+
 One Dark 
+
 git plus 
+
 view in browser 
+
 Babel
