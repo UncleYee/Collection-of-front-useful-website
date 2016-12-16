@@ -34,3 +34,12 @@ git plus
 view in browser 
 
 Babel
+
+## React 相关 
+React-Bootstrap:[http://react-bootstrap.github.io/](http://react-bootstrap.github.io/)  
+
+Redux:[http://redux.js.org/](http://redux.js.org/)
+
+Redux-Form:[http://redux-form.com/](http://redux-form.com/)
+
+React-Bootstrap-Table:[http://allenfang.github.io/react-bootstrap-table/](http://allenfang.github.io/react-bootstrap-table/)
