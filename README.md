@@ -1,7 +1,6 @@
 # Collection-of-front-useful-website
 A collection of front useful website
 
-一个对前端开发者有用的工具网站的收集仓库。
 
 ## Regex 
 正则可视化的网站:[https://regexper.com](https://regexper.com)
