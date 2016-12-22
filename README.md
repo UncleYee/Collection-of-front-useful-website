@@ -37,7 +37,9 @@ Babel
 ## React 相关 
 React-Bootstrap:[http://react-bootstrap.github.io/](http://react-bootstrap.github.io/)  
 
-Redux:[http://redux.js.org/](http://redux.js.org/)
+Redux:[http://redux.js.org/](http://redux.js.org/) 
+
+Redux-cn:[http://cn.redux.js.org/](http://cn.redux.js.org/)
 
 Redux-Form:[http://redux-form.com/](http://redux-form.com/)
 
