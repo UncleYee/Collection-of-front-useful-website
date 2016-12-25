@@ -18,6 +18,8 @@ A collection of front useful website
 
 es6-cheatsheet:[https://github.com/DrkSephy/es6-cheatsheet/blob/master/README.md](https://github.com/DrkSephy/es6-cheatsheet/blob/master/README.md)
 
+es6-cheatsheet-cn:[https://github.com/ES-CN/es6features/blob/master/README.md?utm_source=tuicool&utm_medium=referral](https://github.com/ES-CN/es6features/blob/master/README.md?utm_source=tuicool&utm_medium=referral)
+
 ## JS Bin 
 JS在线编译:[http://jsbin.com/?js,console](http://jsbin.com/?js,console) 
 
