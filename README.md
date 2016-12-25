@@ -16,6 +16,8 @@ A collection of front useful website
 ## ES6 
 学习ES6:[https://babeljs.io/learn-es2015/](https://babeljs.io/learn-es2015/) 
 
+es6-cheatsheet:[https://github.com/DrkSephy/es6-cheatsheet/blob/master/README.md](https://github.com/DrkSephy/es6-cheatsheet/blob/master/README.md)
+
 ## JS Bin 
 JS在线编译:[http://jsbin.com/?js,console](http://jsbin.com/?js,console) 
 
@@ -50,4 +52,4 @@ Redux-DevTools:[https://github.com/gaearon/redux-devtools](https://github.com/ga
 Material-UI:[http://www.material-ui.com/#/](http://www.material-ui.com/#/) 
 
 ## 常用库 
-MomentJs[http://momentjs.com](http://momentjs.com)
+MomentJs:[http://momentjs.com](http://momentjs.com)
