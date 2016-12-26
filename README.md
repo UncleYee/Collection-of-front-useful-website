@@ -16,9 +16,9 @@ A collection of front useful website
 ## ES6 
 学习ES6:[https://babeljs.io/learn-es2015/](https://babeljs.io/learn-es2015/) 
 
-es6-cheatsheet:[https://github.com/DrkSephy/es6-cheatsheet/blob/master/README.md](https://github.com/DrkSephy/es6-cheatsheet/blob/master/README.md)
+es6-cheatsheet:[https://github.com/DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 
-es6-cheatsheet-cn:[https://github.com/ES-CN/es6features/blob/master/README.md?utm_source=tuicool&utm_medium=referral](https://github.com/ES-CN/es6features/blob/master/README.md?utm_source=tuicool&utm_medium=referral)
+es6-cheatsheet-cn:[https://github.com/ES-CN/es6features](https://github.com/ES-CN/es6features)
 
 ## JS Bin 
 JS在线编译:[http://jsbin.com/?js,console](http://jsbin.com/?js,console) 
