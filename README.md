@@ -57,4 +57,7 @@ Material-UI:[http://www.material-ui.com/#/](http://www.material-ui.com/#/)
 MomentJs:[http://momentjs.com](http://momentjs.com)
 
 ## 样式相关 
-SASS:[https://github.com/sass/sass](https://github.com/sass/sass)
+SASS:[https://github.com/sass/sass](https://github.com/sass/sass) 
+
+## RXJS 
+RXJS:[http://reactivex.io/rxjs/manual/overview.html](http://reactivex.io/rxjs/manual/overview.html)
