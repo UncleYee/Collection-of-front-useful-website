@@ -26,18 +26,17 @@ JS在线编译:[http://jsbin.com/?js,console](http://jsbin.com/?js,console)
 ## 常用插件 
 Emmet
 
-jsx
+Jsx
 
 Eslint 
 
 One Dark 
 
-git plus 
+Git plus 
 
-view in browser 
+View in browser 
 
 Babel
-
 ## React 相关 
 React-Bootstrap:[http://react-bootstrap.github.io/](http://react-bootstrap.github.io/)  
 
