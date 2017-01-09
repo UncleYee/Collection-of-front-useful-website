@@ -52,6 +52,8 @@ Redux-DevTools:[https://github.com/gaearon/redux-devtools](https://github.com/ga
 
 Material-UI:[http://www.material-ui.com/#/](http://www.material-ui.com/#/)  
 
+Material desgin:[https://material.io/guidelines/#](https://material.io/guidelines/#)
+
 Recharts:[http://recharts.org](http://recharts.org/) 
 
 ## 常用库 
