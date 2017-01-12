@@ -46,6 +46,8 @@ Redux-cn:[http://cn.redux.js.org/](http://cn.redux.js.org/)
 
 Redux-Form:[http://redux-form.com/](http://redux-form.com/)
 
+React-Select:[http://jedwatson.github.io/react-select/](http://jedwatson.github.io/react-select/) 
+
 React-Bootstrap-Table:[http://allenfang.github.io/react-bootstrap-table/](http://allenfang.github.io/react-bootstrap-table/)
 
 Redux-DevTools:[https://github.com/gaearon/redux-devtools](https://github.com/gaearon/redux-devtools)  
