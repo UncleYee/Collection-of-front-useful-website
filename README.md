@@ -1,5 +1,5 @@
-# Collection-of-front-useful-website
-前端有用的网站集合
+# Collection-of-front-resources
+前端资源收集
 
 ## Regex 
 正则可视化的网站:[https://regexper.com](https://regexper.com)
