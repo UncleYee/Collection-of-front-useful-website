@@ -27,7 +27,7 @@ Emmet
 
 Jsx
 
-Eslint 
+Eslint:[http://eslint.org/](http://eslint.org/)
 
 One Dark 
 
