@@ -69,3 +69,8 @@ SASS: [https://github.com/sass/sass](https://github.com/sass/sass)
 
 ## RXJS 
 RXJS: [http://reactivex.io/rxjs/manual/overview.html](http://reactivex.io/rxjs/manual/overview.html)
+
+## ReactNative
+react-native中文网: [http://reactnative.cn/](http://reactnative.cn/)
+
+react-native: [https://facebook.github.io/react-native/](https://facebook.github.io/react-native/)
