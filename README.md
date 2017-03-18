@@ -74,3 +74,5 @@ RXJS: [http://reactivex.io/rxjs/manual/overview.html](http://reactivex.io/rxjs/m
 react-native中文网: [http://reactnative.cn/](http://reactnative.cn/)
 
 react-native: [https://facebook.github.io/react-native/](https://facebook.github.io/react-native/)
+
+side-menu: [https://github.com/react-native-community/react-native-side-menu](https://github.com/react-native-community/react-native-side-menu) 
