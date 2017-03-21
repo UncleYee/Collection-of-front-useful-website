@@ -76,3 +76,5 @@ react-native中文网: [http://reactnative.cn/](http://reactnative.cn/)
 react-native: [https://facebook.github.io/react-native/](https://facebook.github.io/react-native/)
 
 side-menu: [https://github.com/react-native-community/react-native-side-menu](https://github.com/react-native-community/react-native-side-menu) 
+
+react-native-vector-icons: [https://github.com/oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
