@@ -78,3 +78,5 @@ react-native: [https://facebook.github.io/react-native/](https://facebook.github
 side-menu: [https://github.com/react-native-community/react-native-side-menu](https://github.com/react-native-community/react-native-side-menu) 
 
 react-native-vector-icons: [https://github.com/oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+
+react-navigation: [https://github.com/react-community/react-navigation](https://github.com/react-community/react-navigation)
